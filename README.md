@@ -1,0 +1,1 @@
+Hello, this is my first project in The Odin Project. It's a purely HTML/CSS mockup of the Google homepage. It won't be the exact replica and it wouldn't have the same functionality but it serves as practice for me.

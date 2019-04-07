@@ -1,0 +1,56 @@
+#top-left {
+    position: absolute;
+    top: 0;
+    margin: 0;
+    width: 50%;
+}
+
+#top-right {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+}
+
+#navbar {
+    height: 5%;
+    width: 5%;
+}
+
+#bottom-left {
+    position: absolute;
+    bottom: 0;
+    margin: 0;
+    width: 50%;
+}
+
+#bottom-right {
+    position: absolute;
+    bottom: 0;
+    right: 0
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.container {
+    display: inline-block;
+    overflow: hidden;
+
+}
+
+form {
+    width: 100%;
+
+}
